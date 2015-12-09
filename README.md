@@ -1,2 +1,4 @@
-# ddili-ru
-Russian translation of Ali Çehreli's Programming D.
+# Программирование на языке D
+Russian translation of the [Programming D](http://ddili.org/ders/d.en/) book by Ali Çehreli.  
+This work is made for the sake of spreading the [D](http://dlang.org/) programming language and as a gratitude to Ali Çehreli personally as the author of the original book.  
+<div xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://ddili.org/copyright.html"><span property="dct:title">Ddili.org icerigi</span> (<a rel="cc:attributionURL" property="cc:attributionName" href="http://ddili.org/">Ali Cehreli</a>) / <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">CC BY-NC-SA 3.0</a></div>
